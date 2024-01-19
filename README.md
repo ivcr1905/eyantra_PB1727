@@ -52,14 +52,17 @@ Robotic Components :
 9. IR photosensor
   
 
-Team Members : 
-Leader : Rohit Tanga - ECE 
 
-M . Jaswanth Kumar - ECE
+
+Team Leader : Rohit Tanga - ECE 
+
+Team Members : 
+
+M . Jaswanth Kumar - ECE 
 
 Krishna Babu - CSE
 
-Chaithanya - CSE
+Chaithanya Indela - CSE
 
 
 
@@ -72,11 +75,6 @@ Chaithanya - CSE
 ![WIN_20230120_13_35_20_Pro](https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/3772c786-1db8-4758-93f2-5c579950fad4)
 
 ![image](https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/d90717e2-4d1d-4b94-8ac3-65f52ba5f500)
-
-# Video Demostration : 
-----------------
-
-https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/1822abdd-7e43-496c-a348-3c8ff0372861
 
 
 
@@ -94,6 +92,14 @@ https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/4729e67e-d15a-4c5c-88
 
 
 https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/a69b1696-d018-4b1f-8338-4f4cbe559b5e
+
+
+
+
+# Video Demostration : 
+----------------
+
+https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/1822abdd-7e43-496c-a348-3c8ff0372861
 
 
 
