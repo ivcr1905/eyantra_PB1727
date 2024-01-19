@@ -5,7 +5,7 @@
 More About Eyantra :https://portal.e-yantra.org/#about 
 
 
-# IIT-BOMBAY E-yantra Robotics Competition- Pharama Bot Ranked 50 out 5000 teams all over India - Aug22
+# IIT-BOMBAY E-yantra Robotics Competition- Pharama Bot Ranked 50 out 500+ teams All over India - Aug22
 -----------------------------------------
 
 
