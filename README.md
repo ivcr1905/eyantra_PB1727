@@ -1,10 +1,13 @@
 # Eyantra - IIT Bombay Robotics Competition
 ---------------
+![image](https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/3167d91d-3722-4e6a-b8a9-68d3bee56b63)
+
 More About Eyantra :https://portal.e-yantra.org/#about 
+
+
 # IIT-BOMBAY E-yantra Robotics Competition- Pharama Bot Ranked 50 out 5000 teams all over India - Aug22
 -----------------------------------------
 
-![image](https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/3167d91d-3722-4e6a-b8a9-68d3bee56b63)
 
 
 Team id : eyantra_PB1727
@@ -72,16 +75,6 @@ Chaithanya - CSE
 
 # Video Demostration : 
 ----------------
-
-
-
-https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/03ce9e0c-0c77-4276-8187-afd488eb3ae1
-
-
-https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/4aa4e9b5-7a61-427c-bce7-272d9c49f214
-
-
-
 
 https://github.com/ivcr1905/eyantra_PB1727/assets/99393821/1822abdd-7e43-496c-a348-3c8ff0372861
 
